@@ -9,3 +9,9 @@ Credits aside, my aim is to edit the configs of various missiles and bombs in or
 e.g. The W88 got shrunk to a MUCH more reasonable size and mass and a new description, and I'm planning on giving the JASSM a terminal weave and the Tomahawk a Pop-up attack.
 Unfortunately, the plumes for each missile are **hardcoded into the model files, and not in the configs**, so I cannot change or get rid of the plumes. 
 I don't blame harpwner since the mod's code was originally made for **1.3.1, from a DECADE AGO, 2015**
+
+
+== TO DO ==
+
+Add W76 MIRVS (using the preexisiting MIRV models; Credits to Harpwner ofc)
+Fine-tune MLRS Rockets and try to fix their cluster bomb explosions
