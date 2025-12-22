@@ -13,5 +13,9 @@ I don't blame harpwner since the mod's code was originally made for **1.3.1, fro
 
 == TO DO ==
 
-Add W76 MIRVS (using the preexisiting MIRV models; Credits to Harpwner ofc)
+✅ Add W76 MIRVS (using the preexisiting MIRV models; Credits to Harpwner ofc)
+
+
 Fine-tune MLRS Rockets and try to fix their cluster bomb explosions
+
+Whatever is suggested that doesn't require modelling experience since i've never done blender
