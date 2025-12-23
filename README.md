@@ -19,3 +19,8 @@ I don't blame harpwner since the mod's code was originally made for **1.3.1, fro
 Fine-tune MLRS Rockets and try to fix their cluster bomb explosions
 
 Whatever is suggested that doesn't require modelling experience since i've never done blender
+
+======
+KNOWN ISSUE
+BDA+ version 1.12.0 has a bug wherein you *cannot* lock onto terrain, but *only vessels.*
+If you use terrain locking to test your missiles, please ***downgrade to 1.11 or wait for a patch from Brett***
