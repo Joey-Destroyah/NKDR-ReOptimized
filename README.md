@@ -8,23 +8,36 @@ https://creativecommons.org/licenses/by-sa/4.0/
 Credits aside, my aim is to edit the configs of various missiles and bombs in order to give them all realistic and optimized dimensions, values, and trajectories. 
 e.g. The W88 got shrunk to a MUCH more reasonable size and mass and a new description, and I'm planning on giving the JASSM a terminal weave and the Tomahawk a Pop-up attack.
 Unfortunately, the plumes for each missile are **hardcoded into the model files, and not in the configs**, so I cannot change or get rid of the plumes. 
-I don't blame harpwner since the mod's code was originally made for **1.3.1, from a DECADE AGO, in 2015**
+I don't blame harpwner for adding plumes to the models, since the mod's code was originally made for **1.3.1, from a DECADE AGO, in 2015**
 
 So unless someone knows how to steal plumes from model.mu files, we're stuck with the explodium jet engine plumes
 
 
 == TO DO LIST ==
 
-✅ Add W76 MIRVS (using the preexisiting MIRV models; Credits to Harpwner ofc)
-➗ JASSM Weave and Tomahawk pop-up
-➗ Fine-tuning MLRS Rockets
-❌I need help fixing their cluster bomb explosions
+✅ Add W76 MIRVS used on SLBMs and I think the Midgetman ICBM. The W76 Mod 1 has a yield of 90 kilotons, while the Mod 2 has a yield of only 5 Kilotons, meant for tactical use.
 
-Whatever is suggested that doesn't require modelling experience since i've never done blender. Put something in an issue if ya want a customization not listed here.
+(all MIRVS are using the preexisiting MIRV models; Credits to Harpwner for these models, ofc)
+
+✅ Proof-of-concept Titan II ICBM with 12 W-76-2 MIRVS (Requires Bluedog Design Bureau)
+
+➗ JASSM Weave and Tomahawk pop-up
+
+
+➗ Fine-tuning MLRS Rockets
+
+
+❌ I need help fixing their cluster bomb explosions
+
+
+
+Whatever is suggested that doesn't require modelling experience since I've never done blender. Put something in an issue if ya want a customization not listed here.
 
 ======KNOWN ISSUE======
 
 BDA+ version 1.12.0 has a bug wherein you *cannot* lock onto terrain, but *only vessels.*
+
+
 If you use FLIR terrain locking to test your missiles, you must either ***downgrade to 1.11 or wait for a patch from Brett***
 
 I DO have a fork of BDA in the works, so I MAY make a temporary fix. No guarantees.
