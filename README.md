@@ -46,3 +46,12 @@ Take care, and Merry ✝-MAS!
 
 
 --Joey
+
+
+== Sources == 
+The information used in the weapon revamps was collected via https://en.wikipedia.org/, as well as multiple Startpage searches (Applies to every weapon except the MM40 Exocet)
+For the Exocet, it was quite difficult, having no data about SRB burn time or thrust.
+Eventually, I stumbled across a basic HTML site which upon looking for more pages to get stats from, turned out to be a site from the Pakistan Military.
+
+Nevertheless, here is the link to this sketchy-looking site
+https://babriet.tripod.com/navy/stat/statexocet.htm
