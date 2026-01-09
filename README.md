@@ -40,7 +40,10 @@ BDA+ version 1.12.0 has a bug wherein you *cannot* lock onto terrain, but *only 
 
 If you use FLIR terrain locking to test your missiles, you must either ***downgrade to 1.11 or wait for a patch from Brett***
 
-I DO have a fork of BDA in the works, so I MAY make a temporary fix. No guarantees.
+~~I DO have a fork of BDA in the works, so I MAY make a temporary fix. No guarantees.~~
+
+I have decided against making a fix, due to the already existing workaround of downgrading BDA to 1.11. 
+A reason is because the only weapon that will use Laser Guidance in the mod is the GBU-44 Viper glide bomb, and also because *you do not need the LR lock to send coordinates to GPS*.
 
 Take care, and Merry ✝-MAS!
 
